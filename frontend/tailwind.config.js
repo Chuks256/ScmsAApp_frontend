@@ -5,8 +5,10 @@ module.exports = {
     screens: {
       sm: '480px',
       md: '768px',
-      lg: '976px',
+      lg: '1096px',
       xl: '1440px',
+      laptop:'1535px',
+      phonexl:'576px'
     },
     extend: {
       fontFamily:{
